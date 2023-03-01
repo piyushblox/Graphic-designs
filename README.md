@@ -1,6 +1,7 @@
 # Graphic designs
 
-Creating designs that are both aesthetically pleasing and informative
+Creating designs that are both aesthetically pleasing and informative.
+
 _Check out the posters & banners folders._
 
 ## Few images from the folders - 
