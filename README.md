@@ -1,5 +1,4 @@
-# Graphic-designs
-###Showcasing few of my designs. 
+# Graphic designs - Showcase
 
 _Check out the poster & banner folders_
 
