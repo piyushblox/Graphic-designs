@@ -1,4 +1,4 @@
 # Graphic design - Showcase
 
-_Check out the poster & banner folders_
+_Check out the posters & banners folders. _
 
