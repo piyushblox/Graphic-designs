@@ -1,8 +1,7 @@
 # Graphic designs
-
 _Check out the posters & banners folders._
 
-## Few Samples from the folders - 
+## Few images from the folders - 
 *Posters*
 ![Ethnic-day-1](https://user-images.githubusercontent.com/38778028/222144148-66715649-e4be-49b7-a147-c06dbbeef093.png)
 ![dussehra-2](https://user-images.githubusercontent.com/38778028/222144202-0375d35b-39c4-433a-8b37-b6116c7da533.png)
